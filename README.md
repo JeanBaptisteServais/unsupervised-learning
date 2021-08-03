@@ -7,11 +7,7 @@ suggestion techniques
 
 
 ![data](https://user-images.githubusercontent.com/54853371/128016384-d91a96fd-c46f-4330-b742-e81c5ee94f54.png)
-![data](https://user-images.githubusercontent.com/54853371/128016482-e2e24fe0-6d0d-4c09-86ae-78fda36e49f4.png)
-![data](https://user-images.githubusercontent.com/54853371/128016545-013ea012-4904-45f0-8ce8-f11ac62b6759.png)
-![data](https://user-images.githubusercontent.com/54853371/128016618-c15973c8-491c-4d46-b566-4644fd725324.png)
-![data](https://user-images.githubusercontent.com/54853371/128016702-722417ef-5821-4c1b-b352-8951cde756a0.png)
-![data](https://user-images.githubusercontent.com/54853371/128016286-973137af-5a9f-4b69-b4ec-c8a10d83f0da.png)
+
 
 ![data](https://user-images.githubusercontent.com/54853371/128015451-5d3908c9-a7cb-4776-a9ef-66b1197a05d9.png)
 
@@ -25,28 +21,26 @@ R = 3**d + 2**(d+1) + 1
 <br><br><br>
 
 
-![data](https://user-images.githubusercontent.com/54853371/128015638-5cb663c1-fc38-4a55-8db3-b92f9f624b0a.png)
-
-
 ![data](https://user-images.githubusercontent.com/54853371/128014211-16db7451-88f2-4ed0-82b1-f2c14bc06601.png)
 
-![data](https://user-images.githubusercontent.com/54853371/128015712-1360ec64-7241-4807-95b7-7a42e65c1417.png)
 
 
 ![data](https://user-images.githubusercontent.com/54853371/128014300-7a57d1cd-3f34-42d2-8a6b-a43351e592c8.png)
 
-![data](https://user-images.githubusercontent.com/54853371/128015755-467859dd-5b43-4088-8850-5f53d4db9358.png)
-
-
-![data](https://user-images.githubusercontent.com/54853371/128014344-7918da6c-50b9-439a-b25e-8e072eadd8cb.png)
-
-![data](https://user-images.githubusercontent.com/54853371/128015816-7f691cf5-a721-4aac-9243-2f48ab0ffc65.png)
 
 
 ![data](https://user-images.githubusercontent.com/54853371/128014419-b6a86cd2-87e7-41fe-b70e-c93507024235.png)
   
 
-  
+
+
+![data](https://user-images.githubusercontent.com/54853371/128016482-e2e24fe0-6d0d-4c09-86ae-78fda36e49f4.png)
+![data](https://user-images.githubusercontent.com/54853371/128016545-013ea012-4904-45f0-8ce8-f11ac62b6759.png)
+![data](https://user-images.githubusercontent.com/54853371/128016618-c15973c8-491c-4d46-b566-4644fd725324.png)
+![data](https://user-images.githubusercontent.com/54853371/128016702-722417ef-5821-4c1b-b352-8951cde756a0.png)
+![data](https://user-images.githubusercontent.com/54853371/128016286-973137af-5a9f-4b69-b4ec-c8a10d83f0da.png)
+
+
 Ci Phase
 
 Fi Phase
