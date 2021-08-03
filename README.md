@@ -3,7 +3,8 @@ suggestion techniques
 
 
 
-1) Apriori algorythm
+<h1> Apriori algorythm de Rakesh Agrawal </h1>
+
 
 
 ![data](https://user-images.githubusercontent.com/54853371/128016384-d91a96fd-c46f-4330-b742-e81c5ee94f54.png)
@@ -53,7 +54,7 @@ Ci Phase
 Fi Phase
 
 
-
+![data](https://user-images.githubusercontent.com/54853371/128038551-31bf3273-63b4-492e-ae5d-bdd2f96ffb69.png)
 
 Confidence
 
