@@ -6,7 +6,7 @@ suggestion techniques
 1) Apriori algorythm
 
 
-![data](https://user-images.githubusercontent.com/54853371/128015215-0df355c6-7156-4ee1-94ef-569bd1fc219c.png)
+![data](https://user-images.githubusercontent.com/54853371/128015319-41b3b418-1760-4d3f-a28f-0daa813f897e.png)
 
 
 R = 3**d + 2**(d+1) + 1
