@@ -6,6 +6,10 @@ suggestion techniques
 <h1> Apriori algorythm of Rakesh Agrawal </h1>
 
 
+
+<details>
+
+
       If the user buys pasta and butter, he will buy Gruyere.
 
       If the user buys a computer he will buy a mouse.
@@ -106,9 +110,10 @@ Très long car:
 x-Itemsets = x! / y! * (x - y)!
 
 
+</details>
 
 
 
-
+<h1>fp_growth</h1
 
 
