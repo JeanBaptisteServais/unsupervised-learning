@@ -25,6 +25,11 @@ Thorem: R = 3^d + 2^(d+1) + 1 Here we have d = 5
 ![data](https://user-images.githubusercontent.com/54853371/128014211-16db7451-88f2-4ed0-82b1-f2c14bc06601.png)
 <i>Red line's minimum support. Min support = 2</i>
 
+Here of itemsets are >= 2
+
+
+
+
 ![data](https://user-images.githubusercontent.com/54853371/128016482-e2e24fe0-6d0d-4c09-86ae-78fda36e49f4.png)
 
 
