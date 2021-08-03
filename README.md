@@ -3,7 +3,7 @@ suggestion techniques
 
 
 
-<h1> Apriori algorythm de Rakesh Agrawal </h1>
+<h1> Apriori algorythm of Rakesh Agrawal </h1>
 
 
 
