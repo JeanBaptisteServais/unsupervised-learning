@@ -54,7 +54,7 @@ Ci Phase
 Fi Phase
 
 
-![data](https://user-images.githubusercontent.com/54853371/128038551-31bf3273-63b4-492e-ae5d-bdd2f96ffb69.png)
+![data](https://user-images.githubusercontent.com/54853371/128038775-d3590c6a-413e-4d06-a218-46a16dd70fb0.png)
 
 Confidence
 
