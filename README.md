@@ -15,7 +15,7 @@ R = 3**d + 2**(d+1) + 1
 
 
 
-
+![data](https://user-images.githubusercontent.com/54853371/128015451-5d3908c9-a7cb-4776-a9ef-66b1197a05d9.png)
 
 
 
