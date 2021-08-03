@@ -39,11 +39,12 @@ Here of itemsets are >= 2
 
 ![data](https://user-images.githubusercontent.com/54853371/128039386-c1f7da68-f743-42c7-baeb-7b87df94e432.png)
 
+  
+![data](https://user-images.githubusercontent.com/54853371/128016545-013ea012-4904-45f0-8ce8-f11ac62b6759.png)
 
 ![data](https://user-images.githubusercontent.com/54853371/128014419-b6a86cd2-87e7-41fe-b70e-c93507024235.png)
   
-  
-![data](https://user-images.githubusercontent.com/54853371/128016545-013ea012-4904-45f0-8ce8-f11ac62b6759.png)
+
  
 ![data](https://user-images.githubusercontent.com/54853371/128016618-c15973c8-491c-4d46-b566-4644fd725324.png)
 ![data](https://user-images.githubusercontent.com/54853371/128016702-722417ef-5821-4c1b-b352-8951cde756a0.png)
