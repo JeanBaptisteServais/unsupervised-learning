@@ -28,7 +28,7 @@ suggestion techniques
 
 ![data](https://user-images.githubusercontent.com/54853371/128017363-8d290b4e-d0c0-4da0-be9c-2f7718237f0e.png)
 
-Thorem: R = 3^d + 2^(d+1) + 1 Here we have d = 5
+Theorem: R = 3^d + 2^(d+1) + 1 Here we have d = 5
 
 
 <br><br><br>
