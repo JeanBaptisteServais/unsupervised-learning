@@ -6,7 +6,12 @@ suggestion techniques
 1) Apriori algorythm
 
 
-![data](https://user-images.githubusercontent.com/54853371/128015319-41b3b418-1760-4d3f-a28f-0daa813f897e.png)
+![data](https://user-images.githubusercontent.com/54853371/128016384-d91a96fd-c46f-4330-b742-e81c5ee94f54.png)
+![data](https://user-images.githubusercontent.com/54853371/128016482-e2e24fe0-6d0d-4c09-86ae-78fda36e49f4.png)
+![data](https://user-images.githubusercontent.com/54853371/128016545-013ea012-4904-45f0-8ce8-f11ac62b6759.png)
+![data](https://user-images.githubusercontent.com/54853371/128016618-c15973c8-491c-4d46-b566-4644fd725324.png)
+![data](https://user-images.githubusercontent.com/54853371/128016702-722417ef-5821-4c1b-b352-8951cde756a0.png)
+![data](https://user-images.githubusercontent.com/54853371/128016286-973137af-5a9f-4b69-b4ec-c8a10d83f0da.png)
 
 ![data](https://user-images.githubusercontent.com/54853371/128015451-5d3908c9-a7cb-4776-a9ef-66b1197a05d9.png)
 
