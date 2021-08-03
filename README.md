@@ -8,7 +8,7 @@ suggestion techniques
 
 R = 3**d + 2**(d+1) + 1
 
-
+<br><br><br>
 
 
 
@@ -54,9 +54,9 @@ Avantage
 
 Inconvenient
   
-                  x!
-x-Itemsets  =   ______        
-               y!.(x-y)!
+Très long car: 
+
+x-Itemsets = x! / y! * (x - y)!
 
 
 
