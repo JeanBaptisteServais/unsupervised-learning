@@ -2,15 +2,15 @@
 suggestion techniques
 
 
-
-<h1> Apriori algorythm of Rakesh Agrawal </h1>
-
-
       If the user buys pasta and butter, he will buy Gruyere.
 
       If the user buys a computer he will buy a mouse.
 
       If the user has to buy a mouse and a computer, he will buy a keyboard.
+
+      -> So we can propose to him some products & the user didn't search a mouse !
+
+<h1> Apriori algorythm of Rakesh Agrawal </h1>
 
 
 <details>
