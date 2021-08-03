@@ -54,13 +54,14 @@ Ci Phase
 Fi Phase
 
 
+
 ![data](https://user-images.githubusercontent.com/54853371/128038775-d3590c6a-413e-4d06-a218-46a16dd70fb0.png)
 
-Confidence
+Confidence:
 
-Support
+Support:
 
-Lift
+Lift:
 
 
 
