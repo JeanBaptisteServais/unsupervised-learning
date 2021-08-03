@@ -12,6 +12,8 @@ suggestion techniques
 
       If the user has to buy a mouse and a computer, he will buy a keyboard.
 
+
+
 <br><br><br>
 
 ![data](https://user-images.githubusercontent.com/54853371/128016384-d91a96fd-c46f-4330-b742-e81c5ee94f54.png)
@@ -20,6 +22,7 @@ suggestion techniques
 
 
 ![data](https://user-images.githubusercontent.com/54853371/128015451-5d3908c9-a7cb-4776-a9ef-66b1197a05d9.png)
+
 <i>Items count</i>
 
 ![data](https://user-images.githubusercontent.com/54853371/128017363-8d290b4e-d0c0-4da0-be9c-2f7718237f0e.png)
@@ -31,6 +34,7 @@ Thorem: R = 3^d + 2^(d+1) + 1 Here we have d = 5
 
 
 ![data](https://user-images.githubusercontent.com/54853371/128014211-16db7451-88f2-4ed0-82b1-f2c14bc06601.png)
+
 <i>Red line's minimum support. Min support = 2</i>
 
 Here of itemsets are >= 2
