@@ -12,6 +12,7 @@ suggestion techniques
 
       If the user has to buy a mouse and a computer, he will buy a keyboard.
 
+<br><br><br>
 
 ![data](https://user-images.githubusercontent.com/54853371/128016384-d91a96fd-c46f-4330-b742-e81c5ee94f54.png)
 
