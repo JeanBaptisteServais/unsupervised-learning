@@ -6,6 +6,13 @@ suggestion techniques
 1) Apriori algorythm
 
 
+R = 3**d + 2**(d+1) + 1
+
+
+
+
+
+
 ![data](https://user-images.githubusercontent.com/54853371/128013829-3867b1da-4ce2-4e7a-bc2a-cdec10173e82.png)
 
 
@@ -21,3 +28,40 @@ suggestion techniques
 ![data](https://user-images.githubusercontent.com/54853371/128014419-b6a86cd2-87e7-41fe-b70e-c93507024235.png)
   
   
+Ci Phase
+
+Fi Phase
+
+
+
+
+Confidence
+
+Support
+
+Lift
+
+
+
+Graph fter training
+
+
+
+Avantage
+
+
+
+
+Inconvenient
+  
+                  x!
+x-Itemsets  =   ______        
+               y!.(x-y)!
+
+
+
+
+
+
+
+
