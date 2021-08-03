@@ -6,6 +6,8 @@ suggestion techniques
 1) Apriori algorythm
 
 
+![data](https://user-images.githubusercontent.com/54853371/128015451-5d3908c9-a7cb-4776-a9ef-66b1197a05d9.png)
+
 ![data](https://user-images.githubusercontent.com/54853371/128015319-41b3b418-1760-4d3f-a28f-0daa813f897e.png)
 
 ![data](https://user-images.githubusercontent.com/54853371/128015622-7754b1fb-c6ff-4b03-b21d-5723a9f271e2.png)
@@ -37,7 +39,7 @@ R = 3**d + 2**(d+1) + 1
 
 ![data](https://user-images.githubusercontent.com/54853371/128014419-b6a86cd2-87e7-41fe-b70e-c93507024235.png)
   
-![data](https://user-images.githubusercontent.com/54853371/128015451-5d3908c9-a7cb-4776-a9ef-66b1197a05d9.png)
+
   
 Ci Phase
 
