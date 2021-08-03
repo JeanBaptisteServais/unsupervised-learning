@@ -8,7 +8,7 @@ suggestion techniques
 
       If the user has to buy a mouse and a computer, he will buy a keyboard.
 
-      -> So we can propose to him some products & the user didn't search a mouse !
+      -> So the user does not have to search the site for a mouse !
 
 <h1> Apriori algorythm of Rakesh Agrawal </h1>
 
