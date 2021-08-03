@@ -44,8 +44,6 @@ Here of itemsets are >= 2
   
 ![data](https://user-images.githubusercontent.com/54853371/128016618-c15973c8-491c-4d46-b566-4644fd725324.png)
 ![data](https://user-images.githubusercontent.com/54853371/128016702-722417ef-5821-4c1b-b352-8951cde756a0.png)
-![data](https://user-images.githubusercontent.com/54853371/128016286-973137af-5a9f-4b69-b4ec-c8a10d83f0da.png)
-
 
 
 
@@ -62,6 +60,9 @@ Confidence:
 Support:
 
 Lift:
+
+
+![data](https://user-images.githubusercontent.com/54853371/128016286-973137af-5a9f-4b69-b4ec-c8a10d83f0da.png)
 
 
 
