@@ -30,6 +30,7 @@ suggestion techniques
 ![data](https://user-images.githubusercontent.com/54853371/128367424-945d56ac-bd17-4882-ab63-bddb1cab4f67.png)
 
 
+![data](https://user-images.githubusercontent.com/54853371/128367619-05bf11d4-5e1a-405e-8015-2c4bc1b0d64f.png)
 
 
 
