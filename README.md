@@ -48,7 +48,7 @@ Confidence = fp support / support
 
 
 
-
+<br><br><br><br><br><br>
 
 
 <h1> Apriori algorythm of Rakesh Agrawal </h1>
