@@ -14,6 +14,8 @@ suggestion techniques
 <h1>fp_growth</h1>
 
 
+Minimum support = 2, k-items = 3 confidence = 60 %
+
 ![data](https://user-images.githubusercontent.com/54853371/128367219-94ae15cd-2d13-43f2-8018-5684ea4e975a.png)
 
 
