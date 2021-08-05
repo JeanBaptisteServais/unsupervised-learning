@@ -13,13 +13,7 @@ suggestion techniques
 
 <h1>fp_growth</h1
 
-<details>
 
-ici
-iciici
-dzaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-      
-</details>
 
 
 
