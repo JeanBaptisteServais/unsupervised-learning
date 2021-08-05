@@ -17,13 +17,19 @@ suggestion techniques
 ![data](https://user-images.githubusercontent.com/54853371/128367219-94ae15cd-2d13-43f2-8018-5684ea4e975a.png)
 
 
+![data](https://user-images.githubusercontent.com/54853371/128368064-5578e6a2-3e1b-4bd9-88d2-8c30b8f9c91b.png)
 
+<br><br><br><br>
 
 
 
 ![data](https://user-images.githubusercontent.com/54853371/128367811-1c60d122-c3cd-4646-9b6c-919625588bce.png)
 
+<br><br>
+
 ![data](https://user-images.githubusercontent.com/54853371/128367830-8fd18865-c49b-41d1-9695-bdafb5f0991d.png)
+
+<br><br>
 
 ![data](https://user-images.githubusercontent.com/54853371/128367847-9f1329ff-4603-4a59-8341-92268b40fd6d.png)
 
