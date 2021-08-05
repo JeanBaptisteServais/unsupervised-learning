@@ -44,7 +44,10 @@ suggestion techniques
 
 Confidence = fp support / support
 
+Advantage
 
+
+Inconvenient
 
 
 
