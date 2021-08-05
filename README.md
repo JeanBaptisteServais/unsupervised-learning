@@ -27,6 +27,17 @@ suggestion techniques
 
 
 
+![data](https://user-images.githubusercontent.com/54853371/128367424-945d56ac-bd17-4882-ab63-bddb1cab4f67.png)
+
+
+
+
+
+
+
+
+
+
 
 
 <h1> Apriori algorythm of Rakesh Agrawal </h1>
