@@ -13,6 +13,7 @@ suggestion techniques
 
 <h1>fp_growth</h1>
 
+<details>
 
 Minimum support = 2, k-items = 3 confidence = 60 %
 
@@ -51,7 +52,7 @@ Advantage
 
 Inconvenient
 
-
+</details>
 
 <br><br><br><br><br><br>
 
