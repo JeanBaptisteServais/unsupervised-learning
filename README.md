@@ -37,12 +37,12 @@ suggestion techniques
 ![data](https://user-images.githubusercontent.com/54853371/128367847-9f1329ff-4603-4a59-8341-92268b40fd6d.png)
 
 
-
+<br><br>
 
 
 ![data](https://user-images.githubusercontent.com/54853371/128367619-05bf11d4-5e1a-405e-8015-2c4bc1b0d64f.png)
 
-
+Confidence = fp support / support
 
 
 
