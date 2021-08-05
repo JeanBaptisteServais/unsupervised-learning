@@ -102,9 +102,13 @@ Avantage
 
 Inconvenient
   
-Très long car: 
+Very long:
 
-x-Itemsets = x! / y! * (x - y)!
+      - k-Itemsets = x! / y! * (x - y)!
+      
+      where x = number data in the dataset
+            y = number itemset
+ 
 
 
 </details>
