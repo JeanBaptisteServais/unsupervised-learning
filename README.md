@@ -80,11 +80,11 @@ Here of itemsets are >= 2
 
 ![data](https://user-images.githubusercontent.com/54853371/128038775-d3590c6a-413e-4d06-a218-46a16dd70fb0.png)
 
-<strong>Confidence:</strong>
+<strong>Support:</strong> Number of transaction contaning an item / total of transations
+      
+<strong>Confidence:</strong> (X -> Y) Number of transaction containing X & Y / Number of transaction X
 
-<strong>Support:</strong>
-
-<strong>Lift:</strong>
+<strong>Lift:</strong> Support (X, Y) / Suport (X) * Support (Y)
 
 
 ![data](https://user-images.githubusercontent.com/54853371/128016286-973137af-5a9f-4b69-b4ec-c8a10d83f0da.png)
