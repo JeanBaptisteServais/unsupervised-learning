@@ -90,16 +90,6 @@ Here of itemsets are >= 2
 ![data](https://user-images.githubusercontent.com/54853371/128016286-973137af-5a9f-4b69-b4ec-c8a10d83f0da.png)
 
 
-
-Graph fter training
-
-
-
-Avantage
-
-
-
-
 Inconvenient
   
 Very long:
@@ -117,4 +107,6 @@ Very long:
 
 <h1>fp_growth</h1
 
+<details>
 
+</details>
