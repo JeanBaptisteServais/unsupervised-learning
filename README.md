@@ -11,7 +11,14 @@ suggestion techniques
       -> So the user does not have to search the on site for a mouse !
 
 
-<h1>fp_growth</h1
+<h1>fp_growth</h1>
+
+
+<details>
+      
+dzadzadaz      
+      
+</details>
 
 
 
