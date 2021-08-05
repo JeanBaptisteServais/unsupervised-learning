@@ -72,19 +72,19 @@ Here of itemsets are >= 2
 
 
 
-Ci Phase
+<strong>Ci Phase: </strong> Phase of counting the itemset.
 
-Fi Phase
+<strong>Fi Phase: </strong> Phase of filtering the itemset by the minimum support.
 
 
 
 ![data](https://user-images.githubusercontent.com/54853371/128038775-d3590c6a-413e-4d06-a218-46a16dd70fb0.png)
 
-Confidence:
+<strong>Confidence:</strong>
 
-Support:
+<strong>Support:</strong>
 
-Lift:
+<strong>Lift:</strong>
 
 
 ![data](https://user-images.githubusercontent.com/54853371/128016286-973137af-5a9f-4b69-b4ec-c8a10d83f0da.png)
