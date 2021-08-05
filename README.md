@@ -14,11 +14,7 @@ suggestion techniques
 <h1>fp_growth</h1>
 
 
-<details>
-      
-dzadzadaz      
-      
-</details>
+![data](https://user-images.githubusercontent.com/54853371/128367219-94ae15cd-2d13-43f2-8018-5684ea4e975a.png)
 
 
 
